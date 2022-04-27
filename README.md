@@ -6,7 +6,7 @@ Okpara Kingsley | SH-IT-0002922 | https://github.com/Okparak14/side-hustle-proje
 Enyia Christian | SH-IT-0052607 | Github: https://github.com/Christiano112
 Tijani Balikis | SH-IT-  | Github: https://github.com/topluckstar/First-Project-SideHustle
 Abioye kaosara | SH-IT-0076377 | Github:
-
+Randy kate | SH-IT-0108359 |Github: https://github.com/Randy671/caption-project-/commits?author=Randy671
 
 Our task is to build out the project to the designs inside the /design folder. You will find both a mobile and a desktop version of the design we work on.
 
