@@ -2,7 +2,7 @@
 Capstone Group 26, First Project
 TEAM MEMBERS:
 TEAM LEAD - Solomon John| SH-IT-0047631 | Github: https://github.com/leonrichcy/First-Project-SideHustle/
-Okpara Kingsley | SH-IT-0002922 | 
+Okpara Kingsley | SH-IT-0002922 | https://github.com/Okparak14/side-hustle-project
 Enyia Christian | SH-IT-0052607 | Github: https://github.com/Christiano112
 Tijani Balikis | SH-IT-  | Github: https://github.com/topluckstar/First-Project-SideHustle
 Abioye kaosara | SH-IT-0076377 | Github:
