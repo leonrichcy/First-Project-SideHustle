@@ -1,6 +1,12 @@
 # First-Project-SideHustle
 Capstone Group 26, First Project
 TEAM MEMBERS:
+TEAM LEAD - Solomon John| SH-IT-0047631 | Github: https://github.com/leonrichcy/First-Project-SideHustle/
+Okpara Kingsley | SH-IT-0002922 | 
+Enyia Christian | SH-IT-0052607 | Github: https://github.com/Christiano112
+Tijani Balikis | SH-IT-  | Github: https://github.com/topluckstar/First-Project-SideHustle
+Abioye kaosara | SH-IT-0076377 | Github:
+
 
 Our task is to build out the project to the designs inside the /design folder. You will find both a mobile and a desktop version of the design we work on.
 
